@@ -1,4 +1,4 @@
-NSO Excel Analyzer — v1.0
+Điện áp Analyzer — v1.0
 ---------------------------------------------
 Chức năng chính:
 - Nạp nhiều file Excel, tự động ánh xạ Zone_Bx từ DB_VietSub.xlsx
